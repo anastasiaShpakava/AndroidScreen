@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="text_cheap_flights">Cheap Flights</string>
+    <string name="text_simple">ПРОСТОЙ</string>
+    <string name="text_difficult">СЛОЖНЫЙ</string>
+    <string name="text_departure">Город отправления</string>
+    <string name="text_arrive">Город прибытия</string>
+    <string name="text_date">16 июля, 2020</string>
+    <string name="text_return_date">Дата возвращения</string>
+    <string name="text_airport">АЭРОПОРТ</string>
+    <string name="text_thursday">Четверг</string>
+    <string name="text_dayOfWeek">День недели</string>
+    <string name="text_find">ИСКАТЬ БИЛЕТЫ</string>
+    <string name="text_passengers">Пассажиры</string>
+    <string name="text_zero">0</string>
+    <string name="text_one">1</string>
+</resources>
